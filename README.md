@@ -28,3 +28,16 @@ We have been given a dataset from FNP (Ferns and Petals) that specializes in sen
 - Customer Behavior: Looking at time based revenue, we can determine peak scheduling hours which may be leveraged through timed discounts and push notifications. 
 - Product Leaders: The number of Top 5 products that generate most revenue highlights how promoting and availability of these products is critical to the business. 
 - Regional Insights: Certain cities constantly generate Higher orders. This suggests that with carefully analyzed marketing efforts these regions will yield strong returns.
+
+
+## Strategic Impact
+
+- Revenue Growth Opportunities - The dashboard shows that events such as Anniversary and Valentine's Day deliver significant revenue; if campaigns are developed specifically around those          events, sales can explode! 
+- Customer Value Enhancement - The average customer's spending is ₹3,290.90. Using cross-selling and upselling strategies can potentially increase basket size and profitability. 
+- Operational Improvements - If we analyze the average order-delivery time of 5.5 days, the dashboard can show operational improvements to drive delivery efficiency and leverage high customer     satisfaction to limit churn. 
+- Market Expansion - Trends identified in the Top 10 Cities by Orders demonstrates that demand patterns are consistent at the city-level enabling businesses to allocate marketing spending and     operational capacity to cities that deliver the best return from marketing initiatives. 
+- Optimizing Product Mix - The revenue analysis by category shows that Sweets and Raksha Bandhan are the 'high-performing' categories and it highlights the lagging categories. This will guide     you in terms of resource allocation as well as product planning.
+
+
+The dashboard looks like. - 
+![Dashboard Preview](https://github.com/devanshiverma10/Excel_Project/blob/main/Dashboard%20snapshot.png)
