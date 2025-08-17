@@ -39,5 +39,6 @@ We have been given a dataset from FNP (Ferns and Petals) that specializes in sen
 - Optimizing Product Mix - The revenue analysis by category shows that Sweets and Raksha Bandhan are the 'high-performing' categories and it highlights the lagging categories. This will guide     you in terms of resource allocation as well as product planning.
 
 
-The dashboard looks like. - 
+
+## The dashboard looks like. - 
 ![Dashboard Preview](https://github.com/devanshiverma10/Excel_Project/blob/main/Dashboard%20snapshot.png)
